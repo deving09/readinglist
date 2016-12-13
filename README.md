@@ -24,6 +24,11 @@ Feature Hashing for Large Scale Multitask Learning
 Kilian Weinberger, Anirban Dasgupta, John Langford, Alex Smola, Josh Attenberg
 http://www.machinelearning.org/archive/icml2009/papers/407.pdf
 
+A Critical Review of Recurrent Neural Networks for Sequence Learning
+Zachary C. Lipton, John Berkowitz, Charles Elkan
+https://arxiv.org/abs/1506.00019
+
+
 
 Learning to Rank
 
@@ -31,4 +36,12 @@ Learning to Rank with (a Lot of) Word Features
 Bing Bai, Jason Weston, David Grangier, Ronan Collobert, Kunihiko Sadamasa, Yajun Qi,
 Oliver Chapelle, Kilian Weinberger
 http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf
+
+
+Relation Extraction
+
+Semi-Supervised Classification with Graph Convolutional Networks
+Thomas N. Kipf, Max Welling
+https://arxiv.org/abs/1609.02907
+
 
