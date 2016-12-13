@@ -24,3 +24,11 @@ Feature Hashing for Large Scale Multitask Learning
 Kilian Weinberger, Anirban Dasgupta, John Langford, Alex Smola, Josh Attenberg
 http://www.machinelearning.org/archive/icml2009/papers/407.pdf
 
+
+Learning to Rank
+
+Learning to Rank with (a Lot of) Word Features
+Bing Bai, Jason Weston, David Grangier, Ronan Collobert, Kunihiko Sadamasa, Yajun Qi,
+Oliver Chapelle, Kilian Weinberger
+http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf
+
