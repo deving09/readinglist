@@ -28,6 +28,9 @@ A Critical Review of Recurrent Neural Networks for Sequence Learning
 Zachary C. Lipton, John Berkowitz, Charles Elkan
 https://arxiv.org/abs/1506.00019
 
+Efficiecnt softmax approximation for GPUs
+Edouard Grave, Armand Joulin, Moustapha Cisse, David Grangier, Herve Jegou
+https://arxiv.org/abs/1609.04309
 
 
 Learning to Rank
