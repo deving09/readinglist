@@ -51,4 +51,12 @@ Oliver Chapelle, Kilian Weinberger
 * [Semi-Supervised Classification with Graph Convolutional Networks] (https://arxiv.org/abs/1609.02907)
 Thomas N. Kipf, Max Welling
 
+## RTB
+* [A Survey on Real Time Bidding Advertising] (http://wnzhang.net/share/rtb-papers/rtb-survey.pdf)
+Yong Yuan, Feiyue Wang, Juanjuan Li, Rui Qin
 
+
+# NLP
+
+* [A Joint Model for Entity Analysis: Coreference, Typing, and Linking] (https://people.eecs.berkeley.edu/~gdurrett/papers/durrett-klein-tacl2014.pdf)
+Greg Durrett and Dan Klein
