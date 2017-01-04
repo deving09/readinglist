@@ -1,62 +1,54 @@
-# Paper Collection of NLP, Computer Vision, Machine Learning paper
+# Collection of NLP, Computer Vision, Machine Learning papers
 
 ## Text Classification Papers
 
-* [Very Deep Convolutional Networks for Natural Language Processing] (https://arxiv.org/abs/1606.01781)
+* [Very  Deep Convolutional Networks for Natural Language Processing] (https://arxiv.org/abs/1606.01781)
 Alexis Conneau, Holger Schwenk, Loic Barrault, Yann LeCun
 
-## Text Understanding from Scratch
+* [Text Understanding from Scratch] (https://arxiv.org/abs/1502.01710)
 Xiang Zhang, Yann LeCun
-https://arxiv.org/abs/1502.01710
 
-Character-level Concolutional Networks for Text Classification
+* [Character-level Concolutional Networks for Text Classification] (https://arxiv.org/abs/1509.01626)
 Xiang Zhang, Junbo Zhao, Yann LeCun
-https://arxiv.org/abs/1509.01626
 
-Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers
+
+* [Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers] (https://arxiv.org/abs/1602.00367)
 Yijun Xiao, Kyunghyun Cho
-https://arxiv.org/abs/1602.00367
 
-Bag of Tricks for Efficient Text Classification
+
+* [Bag of Tricks for Efficient Text Classification] (https://arxiv.org/abs/1607.01759)
 Armand Joulin, Edouard Grave, Piotr Bojanowski,Tomas Mikolov
-https://arxiv.org/abs/1607.01759
 
-Feature Hashing for Large Scale Multitask Learning
+* [Feature Hashing for Large Scale Multitask Learning] (http://www.machinelearning.org/archive/icml2009/papers/407.pdf)
 Kilian Weinberger, Anirban Dasgupta, John Langford, Alex Smola, Josh Attenberg
-http://www.machinelearning.org/archive/icml2009/papers/407.pdf
 
-A Critical Review of Recurrent Neural Networks for Sequence Learning
+* [A Critical Review of Recurrent Neural Networks for Sequence Learning] (https://arxiv.org/abs/1506.00019)
 Zachary C. Lipton, John Berkowitz, Charles Elkan
-https://arxiv.org/abs/1506.00019
 
 
-Deep Unordered Composition Rivals Syntatic Methods for Text Classification
+* [Deep Unordered Composition Rivals Syntatic Methods for Text Classification] (https://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf)
 Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, Hal Daume III
-https://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf
 
 
 ## Language Modeling
 
-Efficiecnt softmax approximation for GPUs
+* [Efficiecnt softmax approximation for GPUs] (https://arxiv.org/abs/1609.04309)
 Edouard Grave, Armand Joulin, Moustapha Cisse, David Grangier, Herve Jegou
-https://arxiv.org/abs/1609.04309
 
-Strategies for Training Large Vocabulary Neural Language Models
+* [Strategies for Training Large Vocabulary Neural Language Models] (https://arxiv.org/abs/1512.04906)
 Wenlin Chen, David Grangier, Micahel Auli
-https://arxiv.org/abs/1512.04906
+
 
 ## Learning to Rank
 
-Learning to Rank with (a Lot of) Word Features
+* [Learning to Rank with (a Lot of) Word Features] (http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf)
 Bing Bai, Jason Weston, David Grangier, Ronan Collobert, Kunihiko Sadamasa, Yajun Qi,
 Oliver Chapelle, Kilian Weinberger
-http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf
 
 
 ## Relation Extraction
 
-Semi-Supervised Classification with Graph Convolutional Networks
+* [Semi-Supervised Classification with Graph Convolutional Networks] (https://arxiv.org/abs/1609.02907)
 Thomas N. Kipf, Max Welling
-https://arxiv.org/abs/1609.02907
 
 
