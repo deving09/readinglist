@@ -1,10 +1,11 @@
-Text Classification Papers
+# Paper Collection of NLP, Computer Vision, Machine Learning paper
 
-Very Deep Convolutional Networks for Natural Language Processing
+## Text Classification Papers
+
+* [Very Deep Convolutional Networks for Natural Language Processing] (https://arxiv.org/abs/1606.01781)
 Alexis Conneau, Holger Schwenk, Loic Barrault, Yann LeCun
-https://arxiv.org/abs/1606.01781
 
-Text Understanding from Scratch
+## Text Understanding from Scratch
 Xiang Zhang, Yann LeCun
 https://arxiv.org/abs/1502.01710
 
@@ -34,7 +35,7 @@ Mohit Iyyer, Varun Manjunatha, Jordan Boyd-Graber, Hal Daume III
 https://cs.umd.edu/~miyyer/pubs/2015_acl_dan.pdf
 
 
-Language Modeling
+## Language Modeling
 
 Efficiecnt softmax approximation for GPUs
 Edouard Grave, Armand Joulin, Moustapha Cisse, David Grangier, Herve Jegou
@@ -44,7 +45,7 @@ Strategies for Training Large Vocabulary Neural Language Models
 Wenlin Chen, David Grangier, Micahel Auli
 https://arxiv.org/abs/1512.04906
 
-Learning to Rank
+## Learning to Rank
 
 Learning to Rank with (a Lot of) Word Features
 Bing Bai, Jason Weston, David Grangier, Ronan Collobert, Kunihiko Sadamasa, Yajun Qi,
@@ -52,7 +53,7 @@ Oliver Chapelle, Kilian Weinberger
 http://ronan.collobert.com/pub/matos/2009_ssi_jir.pdf
 
 
-Relation Extraction
+## Relation Extraction
 
 Semi-Supervised Classification with Graph Convolutional Networks
 Thomas N. Kipf, Max Welling
