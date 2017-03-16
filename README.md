@@ -45,6 +45,8 @@ Wenlin Chen, David Grangier, Micahel Auli
 Bing Bai, Jason Weston, David Grangier, Ronan Collobert, Kunihiko Sadamasa, Yajun Qi,
 Oliver Chapelle, Kilian Weinberger
 
+* [A Support Vector Method for Multivariate Performance Measures] (http://www.cs.cornell.edu/people/tj/publications/joachims_05a.pdf)
+Thorsten Joachims
 
 ## Relation Extraction
 
@@ -55,8 +57,18 @@ Thomas N. Kipf, Max Welling
 * [A Survey on Real Time Bidding Advertising] (http://wnzhang.net/share/rtb-papers/rtb-survey.pdf)
 Yong Yuan, Feiyue Wang, Juanjuan Li, Rui Qin
 
+* [Ad Click Prediction: a View from the Trenches] (https://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf)
+H. Brendan McMahan, Gary Holt, D. Sculley, Michael Young, Dietmar Ebner, Julian Grady, 
+Lan Nie, Todd Phillips, Eugene Davydov, Daniel Golovin, Sharat Chikkerur, Dan Liu,
+Martin Wattenberg, Arnar Mar Hrafnkelsson, Tom Boulos, Jeremy Kubica
 
-# NLP
+## NLP (misc)
 
 * [A Joint Model for Entity Analysis: Coreference, Typing, and Linking] (https://people.eecs.berkeley.edu/~gdurrett/papers/durrett-klein-tacl2014.pdf)
 Greg Durrett and Dan Klein
+
+## Online Learning
+
+* [Follow-The Regularized-Leader and Mirror Descent: Equivalence Theorems and L1 Regularization] (http://www.jmlr.org/proceedings/papers/v15/mcmahan11b/mcmahan11b.pdf)
+H. Brendan McMahan
+
